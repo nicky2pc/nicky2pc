@@ -1,4 +1,4 @@
-```bash
+```text
                    -`                    
                   .o+`                   ---------------
                  `ooo/                   OS: Arch Linux x86_64

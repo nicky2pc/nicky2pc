@@ -21,6 +21,6 @@
 ```
 <div align="center">
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicky2pc&theme=tokyonight)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicky2pc&theme=2077)
 
 </div>

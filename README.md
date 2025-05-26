@@ -19,3 +19,9 @@
  `++:.                           `-/+/   
 .`                                 `/   
 ```
+<div align="center">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicky2pc&theme=tokyonight)
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicky2pc&theme=tokyonight&hide_border=true)
+
+</div>

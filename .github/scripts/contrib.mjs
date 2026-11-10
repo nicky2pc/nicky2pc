@@ -74,10 +74,10 @@ days.forEach((d, i) => {
 });
 const cursorX = X0 + CHART_W + 3;
 const title = "contributions";
-const right = `${cal.totalContributions} in the last year`;
+const right = `${cal.totalContributions}`;
 
-const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="${cal.totalContributions} contributions in the last year">
-<title>${cal.totalContributions} contributions in the last year</title>
+const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="contributions: ${cal.totalContributions}">
+<title>contributions: ${cal.totalContributions}</title>
 <style>
 text { font: 13px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace; white-space: pre; }
 .g { font-size: 15px }

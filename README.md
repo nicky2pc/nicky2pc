@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="assets/heartbit.svg" alt="heartbit">
+  <img src="assets/hex.svg" alt="xxd">
 </p>

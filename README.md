@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="assets/contrib.svg" alt="contributions">
+  <img src="assets/heartbit.svg" alt="heartbit">
 </p>
